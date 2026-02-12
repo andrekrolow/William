@@ -1,0 +1,17 @@
+C:\Projetos Github\William\William\bin\Debug\net9.0-windows\William.exe
+C:\Projetos Github\William\William\bin\Debug\net9.0-windows\William.deps.json
+C:\Projetos Github\William\William\bin\Debug\net9.0-windows\William.runtimeconfig.json
+C:\Projetos Github\William\William\bin\Debug\net9.0-windows\William.dll
+C:\Projetos Github\William\William\bin\Debug\net9.0-windows\William.pdb
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.Form1.resources
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.vbproj.GenerateResource.cache
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.AssemblyInfoInputs.cache
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.AssemblyInfo.vb
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.vbproj.CoreCompileInputs.cache
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.sourcelink.json
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.dll
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\refint\William.dll
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.pdb
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\William.genruntimeconfig.cache
+C:\Projetos Github\William\William\obj\Debug\net9.0-windows\ref\William.dll

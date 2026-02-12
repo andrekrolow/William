@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos Github\\William\\William\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4878DDE9-F2A5-433F-8808-A624644C5E08}|William.vbproj|c:\\projetos github\\william\\william\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4878DDE9-F2A5-433F-8808-A624644C5E08}|William.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4878DDE9-F2A5-433F-8808-A624644C5E08}|William.vbproj|c:\\projetos github\\william\\william\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{4878DDE9-F2A5-433F-8808-A624644C5E08}|William.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4878DDE9-F2A5-433F-8808-A624644C5E08}|William.vbproj|c:\\projetos github\\william\\william\\outrousuario||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4878DDE9-F2A5-433F-8808-A624644C5E08}|William.vbproj|solutionrelative:outrousuario||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 365,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Projetos Github\\William\\William\\Form1.vb",
-              "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Projetos Github\\William\\William\\Form1.vb [Design]",
-              "RelativeToolTip": "Form1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-12T17:46:52.214Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Projetos Github\\William\\William\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Projetos Github\\William\\William\\Form1.vb*",
+              "RelativeToolTip": "Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-12T18:06:44.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -51,6 +60,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutroUsuario",
+              "DocumentMoniker": "C:\\Projetos Github\\William\\William\\OutroUsuario",
+              "RelativeDocumentMoniker": "OutroUsuario",
+              "ToolTip": "C:\\Projetos Github\\William\\William\\OutroUsuario",
+              "RelativeToolTip": "OutroUsuario",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-12T18:01:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Projeto]",
+              "DocumentMoniker": "C:\\Projetos Github\\William\\William\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Projetos Github\\William\\William\\Form1.vb [Projeto]*",
+              "RelativeToolTip": "Form1.vb [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-12T17:46:52.214Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
